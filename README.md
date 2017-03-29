@@ -1,1 +1,1 @@
-Shell genomics lessons
+Shell Bioinformatics Genomics Data Workshop lessons
